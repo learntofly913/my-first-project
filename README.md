@@ -21,10 +21,10 @@ identify callers based on past call record/feedback. It will impact every Phone 
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Cat]([https://github.com/learntofly913/my-first-project/commit/9c9a7ef906599a72009817f88c69ee12ea338c88#diff-ea3c7f657c244abc9ec88fd2a11d38f597500ddefe8a918fdf501d7260fc8df])
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://github.com/learntofly913/my-first-project/commit/9c9a7ef906599a72009817f88c69ee12ea338c88#diff-ea3c7f657c244abc9ec88fd2a11d38f597500ddefe8a918fdf501d7260fc8df7" width="300">
 
 This is how you create code examples:
 ```
@@ -43,7 +43,7 @@ main()
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+[Twitter API]([https://developer.twitter.com/en/docs](https://cyberdecode.in/list-of-fraud-scammers-mobile-numbers-in-india/))
 
 | Syntax      | Description |
 | ----------- | ----------- |
